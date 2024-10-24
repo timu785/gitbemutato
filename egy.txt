@@ -16,6 +16,7 @@ git config --global user.name "Your Name"
 git config --global user.email "your.email@example.com"
 
 git log
+git log --oneline
 a commitekések "history"-ját írja ki
 
 
