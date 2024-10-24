@@ -12,3 +12,13 @@ commitolod a repo-t a main branch-re egy kommenttel
 
 git config --global --edit
 az adataim(név és email) szerkesztése vim-mel
+git config --global user.name "Your Name"
+git config --global user.email "your.email@example.com"
+
+git log
+a commitekések "history"-ját írja ki
+
+
+
+
+
