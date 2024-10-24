@@ -6,3 +6,9 @@ a repo státuszát adja meg
 
 git add .
 minden fájlt hozzáad a repohoz
+
+git commit -m "komment"
+commitolod a repo-t a main branch-re egy kommenttel
+
+git config --global --edit
+az adataim(név és email) szerkesztése vim-mel
